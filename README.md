@@ -1,13 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW Together 06" />
-  
-  <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
-
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
+  <img alt="Letmeask" src="https://github.com/clayveralves/Letmeask_ClayverAlves/blob/main/src/assets/images/logo.svg" width="160px">
 </p>
 
 <h1 align="center">
@@ -18,7 +10,7 @@
 
 ## 🧪 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias: By: ClayverAlves
 
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
@@ -29,9 +21,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/clayveralves/Letmeask_ClayverAlves.git
+$ cd Letmeask_ClayverAlves
 ```
+Deploy: https://letmeask-e9d26.web.app/
 
 Para iniciá-lo, siga os passos abaixo:
 ```bash
@@ -59,11 +52,3 @@ Você pode visualizar o layout do projeto através do link abaixo:
 - [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
-
-## 📝 License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
