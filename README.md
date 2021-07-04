@@ -12,6 +12,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+## Link do host
+
+-Deploy: https://letmeask-e9d26.web.app/
+
 ## 🚀 Como executar
 
 Clone o projeto e acesse a pasta do mesmo.
@@ -20,7 +24,6 @@ Clone o projeto e acesse a pasta do mesmo.
 $ git clone https://github.com/clayveralves/Letmeask_ClayverAlves.git
 $ cd Letmeask_ClayverAlves
 ```
-Deploy: https://letmeask-e9d26.web.app/
 
 Para iniciá-lo, siga os passos abaixo:
 ```bash
