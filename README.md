@@ -2,8 +2,6 @@
   <img alt="Letmeask" src="https://github.com/clayveralves/Letmeask_ClayverAlves/blob/main/src/assets/images/logo.svg" width="160px">
 </p>
 
-<br>
-
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
