@@ -2,15 +2,11 @@
   <img alt="Letmeask" src="https://github.com/clayveralves/Letmeask_ClayverAlves/blob/main/src/assets/images/logo.svg" width="160px">
 </p>
 
-<h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
-</h1>
-
 <br>
 
 ## 🧪 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias: By: ClayverAlves
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
@@ -41,6 +37,8 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 ## 💻 Projeto
 
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
+
+By: ClayverAlves
 
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
 
