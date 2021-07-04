@@ -15,6 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Link do host
 
 -Deploy: https://letmeask-e9d26.web.app/
+By: ClayverAlves
 
 ## 🚀 Como executar
 
@@ -40,8 +41,6 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 ## 💻 Projeto
 
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
-
-By: ClayverAlves
 
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
 
